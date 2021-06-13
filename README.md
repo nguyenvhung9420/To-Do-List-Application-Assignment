@@ -14,7 +14,7 @@ Features:
 Run the application:
 - Step 1: run `flutter pub get` to get all dependencies of the app.
 - Step 2: connect a mobile device to your computer or start a Simulator (iOS) or Emulator (Android),
-- Step 2: run `flutter run --no-sound-null-safety` to start compiling the app onto the mobile device.
+- Step 3: run `flutter run --no-sound-null-safety` to start compiling the app onto the mobile device.
 
 Main technical instructions and characteristics:
 - Press (+) Plus button on the main screen to add a new to-do item.
